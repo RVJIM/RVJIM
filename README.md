@@ -17,7 +17,7 @@ Recent graduate in **Computational Finance** from the **University of Padua**. M
 * **Languages:** * ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) (Advanced: Pandas, Polars, NumPy, QuantLib)
   * ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) (Time Series, Econometrics)
   * ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) (Academic/Basic)
-* **Currently Learning:** * ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+* **Currently Learning:** * [![Solidity](https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=fff)](#)
 
 ---
 
