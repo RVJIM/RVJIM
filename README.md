@@ -49,7 +49,7 @@ I am looking to contribute to **open-source quantitative finance** projects (e.g
 ---
 
 ### 📫 Connect with me:
-* **LinkedIn:** (https://www.linkedin.com/in/riccardo-caruso-885022109/)
+* **LinkedIn:** (https://www.linkedin.com/in/riccardo-caruso-g/)
 
 ---
 
